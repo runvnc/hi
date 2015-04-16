@@ -1,2 +1,3 @@
 
-alert('Hello.')
+document.body.innerHTML += 'Hi.';
+
