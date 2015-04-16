@@ -1,3 +1,3 @@
-
-document.body.innerHTML += 'Hi.';
+alert('Hello World.');
+//document.body.innerHTML += 'Hi.';
 
